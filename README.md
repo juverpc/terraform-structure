@@ -1,4 +1,4 @@
-# terraform-structure
+# Terraform Structure
 
 Ejemplo de estructura básica de Terraform para diferentes ambientes (por ejemplo, desarrollo, staging y producción). A continuación, te mostraré una estructura de directorios y archivos que puedes utilizar como punto de partida para organizar tus recursos de infraestructura de forma clara y modular.
 
