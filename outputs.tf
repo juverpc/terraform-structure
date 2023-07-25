@@ -1,0 +1,1 @@
+##Aquí definirás las salidas de tus configuraciones de Terraform. Estas salidas pueden ser valores que quieras utilizar en otros sistemas, como las direcciones IP de tus recursos creados

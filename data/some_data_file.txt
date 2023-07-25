@@ -1,0 +1,2 @@
+##Este directorio puede contener archivos de datos que puedan ser utilizados por tus configuraciones 
+de Terraform, por ejemplo, archivos de configuración específicos de la aplicación.##
